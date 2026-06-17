@@ -6,17 +6,17 @@
     "contact": "Contact"
   },
   "hero": {
-    "eyebrow": "Location · Area",
+    "eyebrow": "Khanom - NST",
     "tonight": "Tonight",
-    "title": "Restaurant Name",
-    "subtitle": "An intimate dining experience.",
+    "title": "Bottega Jira",
+    "subtitle": "The best homemade Italian food in Khanom",
     "cta": "Reserve a table",
     "secondaryCta": "View hours"
   },
   "about": {
-    "title": "The room",
-    "pullquote": "Come hungry, stay late.",
-    "body": "A description of the restaurant and its atmosphere."
+    "title": "The Bottega",
+    "pullquote": "Fresh homemade food",
+    "body": "Fresh pasta, pizzas, cheese, cold cuts"
   },
   "hours": {
     "title": "Hours",
@@ -32,33 +32,33 @@
     "openLabel": "Open this evening",
     "closedLabel": "Closed today",
     "openNow": "Open now",
-    "openSubline": "Service until midnight",
+    "openSubline": "Open tonight",
     "openingTonight": "Opening tonight",
-    "openingSubline": "First seating at 18:00",
+    "openingSubline": "See hours below",
     "closedSubline": "See the week below"
   },
   "reservation": {
-    "line": "A handful of tables. Reserve yours.",
+    "line": "Reserve your table.",
     "cta": "Reserve a table"
   },
   "menu": {
     "title": "Menu",
-    "intro": "A short menu, written each season.",
+    "intro": "Local products, imported cheese",
     "comingSoon": "Full menu coming soon.",
-    "comingSoonSub": "We're finishing the season's edition. In the meantime, the kitchen will guide you through tonight's plates at the table.",
+    "comingSoonSub": "Ask the kitchen about tonight's plates.",
     "cta": "Reserve to taste tonight"
   },
   "booking": {
     "title": "Reserve a table",
-    "intro": "We confirm every booking by WhatsApp. The kitchen seats from 18:00.",
+    "intro": "We confirm every booking by WhatsApp.",
     "meta": {
       "title": "Reservation note",
       "serviceLabel": "Service",
-      "serviceValue": "Tue – Sun · 18:00 – 00:00",
+      "serviceValue": "Tue - Sun",
       "confirmLabel": "Confirmation",
-      "confirmValue": "Replied on WhatsApp, usually within the hour.",
-      "directLabel": "Last-minute or larger party?",
-      "directValue": "Reach the room directly on WhatsApp."
+      "confirmValue": "Replied on WhatsApp.",
+      "directLabel": "Last-minute?",
+      "directValue": "Reach us directly on WhatsApp."
     },
     "name": "Your name",
     "phone": "Phone (with country code)",
@@ -66,7 +66,7 @@
     "partySize": "Number of guests",
     "date": "Date",
     "time": "Time",
-    "notes": "Anything we should know? Allergies, occasion…",
+    "notes": "Anything we should know?",
     "submit": "Request reservation",
     "submitting": "Sending…",
     "successTitle": "Thank you.",
@@ -85,18 +85,34 @@
   "contact": {
     "title": "Find us",
     "addressLabel": "Address",
-    "address": "Restaurant address goes here",
+    "address": "Main Road Khanom",
     "whatsappLabel": "WhatsApp",
     "directions": "Open in Google Maps"
   },
   "social": {
     "title": "Latest from the room",
-    "follow": "Follow us"
+    "follow": "Follow us · Bottega Jira"
   },
   "footer": {
-    "tagline": "Restaurant Name · Location",
+    "tagline": "Bottega Jira Khanom",
     "rights": "All rights reserved.",
-    "addressShort": "Area, City",
-    "hoursShort": "Tue – Sun · 18:00 – Midnight"
-  }
+    "addressShort": "Khanom",
+    "hoursShort": "Tue - Sun"
+  },
+  "menuItems": [
+    {
+      "category": "Pizza",
+      "name": "Margarita",
+      "description": "",
+      "price": "350",
+      "tags": []
+    },
+    {
+      "category": "Pasta",
+      "name": "Spaghetti Vongole",
+      "description": "",
+      "price": "380",
+      "tags": []
+    }
+  ]
 }
