@@ -8,15 +8,15 @@
   "hero": {
     "eyebrow": "Khanom - NST",
     "tonight": "Tonight",
-    "title": "Bottega Jira & Deli",
+    "title": "Bottega Jira",
     "subtitle": "The best homemade Italian food in Khanom",
     "cta": "Reserve a table",
     "secondaryCta": "View hours"
   },
   "about": {
-    "title": "Resturant & Deli",
+    "title": "The Bottega",
     "pullquote": "Fresh homemade food",
-    "body": "Fresh pasta, pizzas, meat, salads, with imported wine, cheese and cold cuts."
+    "body": "Fresh pasta, pizzas, cheese, cold cuts"
   },
   "hours": {
     "title": "Hours",
@@ -43,7 +43,7 @@
   },
   "menu": {
     "title": "Menu",
-    "intro": "The best local products from Thailand and Italy",
+    "intro": "Local products, imported cheese",
     "comingSoon": "Full menu coming soon.",
     "comingSoonSub": "Ask the kitchen about tonight's plates.",
     "cta": "Reserve to taste tonight"
