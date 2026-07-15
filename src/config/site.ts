@@ -23,9 +23,9 @@ export const siteConfig: SiteConfig = {
   },
   hours: {
     monday: null,
-    tuesday: {"open":"18:00","close":"00:00"},
-    wednesday: {"open":"18:00","close":"00:00"},
-    thursday: {"open":"18:00","close":"00:00"},
+    tuesday: null,
+    wednesday: null,
+    thursday: null,
     friday: {"open":"12:00","close":"00:00"},
     saturday: {"open":"12:00","close":"00:00"},
     sunday: {"open":"12:00","close":"00:00"},
