@@ -23,12 +23,12 @@ export const siteConfig: SiteConfig = {
   },
   hours: {
     monday: null,
-    tuesday: {"open":"10:00","close":"22:00"},
-    wednesday: {"open":"10:00","close":"22:00"},
-    thursday: {"open":"10:00","close":"22:00"},
-    friday: {"open":"10:00","close":"22:00"},
-    saturday: {"open":"10:00","close":"22:00"},
-    sunday: {"open":"10:00","close":"22:00"},
+    tuesday: {"open":"18:00","close":"00:00"},
+    wednesday: {"open":"18:00","close":"00:00"},
+    thursday: {"open":"18:00","close":"00:00"},
+    friday: {"open":"12:00","close":"00:00"},
+    saturday: {"open":"12:00","close":"00:00"},
+    sunday: {"open":"12:00","close":"00:00"},
   },
   menuMode: "both",
   images: {
