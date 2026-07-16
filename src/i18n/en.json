@@ -8,15 +8,15 @@
   "hero": {
     "eyebrow": "Khanom - NST",
     "tonight": "Tonight",
-    "title": "Bottega Jira",
+    "title": "Bottega Jira & Deli",
     "subtitle": "The best homemade Italian food in Khanom",
     "cta": "Reserve a table",
     "secondaryCta": "View hours"
   },
   "about": {
-    "title": "The Bottega",
-    "pullquote": "Fresh homemade food",
-    "body": "Fresh pasta, pizzas, cheese, cold cuts"
+    "title": "Restaurant & Deli Shop",
+    "pullquote": "Fresh homemade food every day, on-site or take-away",
+    "body": "Fresh pasta, pizzas, cheese, cold cuts. Selection of Imported wines and Liquors"
   },
   "hours": {
     "title": "Hours",
@@ -112,6 +112,13 @@
       "name": "Spaghetti Vongole",
       "description": "",
       "price": "380",
+      "tags": []
+    },
+    {
+      "category": "Cheese",
+      "name": "Cheese Plate",
+      "description": "",
+      "price": "250",
       "tags": []
     }
   ]
