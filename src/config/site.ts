@@ -14,9 +14,9 @@ export const siteConfig: SiteConfig = {
   contact: {
     whatsapp: "+66 90 249 0306",
     whatsappDisplay: "+66 90 249 0306",
-    socialType: "facebook",
+    socialType: "instagram",
     socialHandle: "Bottega Jira",
-    socialUrl: "https://www.facebook.com/people/BottegaJira/100075544497990/",
+    socialUrl: "https://www.instagram.com/bottegajira/",
     address: "Main Road Khanom",
     mapsLat: 9.1845236,
     mapsLng: 99.8574613,
@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
   },
   menuMode: "both",
   images: {
-    logo: "/images/logo.png",
+    logo: "/images/logo.jpeg",
     menu: ["/images/menu1.jpeg","/images/menu2.jpeg","/images/menu3.jpeg","/images/menu4.jpeg","/images/menu5.jpeg"],
   },
 };
